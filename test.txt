@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BA20-EC73
+
+ Directory of C:\Users\mafab\Desktop\MyProject
+
+02/04/2021  15:54    <DIR>          .
+02/04/2021  15:54    <DIR>          ..
+02/04/2021  15:54                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  795ÿ835ÿ740ÿ160 bytes free
